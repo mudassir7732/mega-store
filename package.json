@@ -1,0 +1,47 @@
+{
+  "name": "mega-store",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.16",
+    "@mui/material": "^5.10.16",
+    "@mui/styles": "^5.10.16",
+    "@mui/system": "^5.10.16",
+    "@reduxjs/toolkit": "^1.9.1",
+    "axios": "^1.2.0",
+    "express": "^4.18.2",
+    "firebase": "^9.14.0",
+    "firebase-cli": "^1.2.0",
+    "formik": "^2.2.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-button": "^0.7.2",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.4",
+    "react-scripts": "5.0.0",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
